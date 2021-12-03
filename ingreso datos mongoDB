@@ -803,3 +803,1864 @@ db.clientes.insert({
 "fechaentrega": "2021-10-02",
 "pago": "$46"
 })
+db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Valdez",
+"titulolibro":"El Principito", 
+"autorlibro":"Antoine de Saint-Exupéry", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-10",
+"pago" : "$10"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1715669626",
+"fecha" : "2021-11-01",
+"nombrecliente" : "Elisa", 
+"apellidocliente" : "Contreras",
+"titulolibro":"La Odisea", 
+"autorlibro":"Homero", 
+"generolibro":"Epopeya",
+"fechaentrega" : "2022-01-11",
+"pago" : "$11"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053571",
+"fecha" : "2021-11-02",
+"nombrecliente" : "Ashlet", 
+"apellidocliente" : "Guamam",
+"titulolibro":"La Cabaña del Tío Tom", 
+"autorlibro":"Harriet Beecher Stowe", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-12",
+"pago" : "$12"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1318171961",
+"fecha" : "2021-11-01",
+"nombrecliente" : "Anastasia", 
+"apellidocliente" : "Lopez",
+"titulolibro":"Frankenstein", 
+"autorlibro":"Mary Shelley", 
+"generolibro":"Ciencia Ficción",
+"fechaentrega" : "2022-01-13",
+"pago" : "$13"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1414161723",
+"fecha" : "2021-11-05",
+"nombrecliente" : "Sebastian", 
+"apellidocliente" : "Cadena",
+"titulolibro":"1984", 
+"autorlibro":"George Orwell", 
+"generolibro":"Ciencia Ficción",
+"fechaentrega" : "2022-01-14",
+"pago" : "$14"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "2378634524",
+"fecha" : "2021-11-04",
+"nombrecliente" : "Clara", 
+"apellidocliente" : "Endara",
+"titulolibro":"Todo se Derrumba", 
+"autorlibro":"Chinua Achebe", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-13",
+"pago" : "$13"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0956432561",
+"fecha" : "2021-11-07",
+"nombrecliente" : "Sofa", 
+"apellidocliente" : "Rodriguez",
+"titulolibro":"Las Mil y Una Noches", 
+"autorlibro":"Varios Autores", 
+"generolibro":"Ficción",
+"fechaentrega" : "2022-01-15",
+"pago" : "$15"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "2256435278",
+"fecha" : "2021-11-08",
+"nombrecliente" : "Eulalio", 
+"apellidocliente" : "Segovia",
+"titulolibro":"El Quijote", 
+"autorlibro":"Miguel de Cervantes Saavedra", 
+"generolibro":"Parodia",
+"fechaentrega" : "2022-01-14",
+"pago" : "$14"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "2134272829",
+"fecha" : "2021-11-06",
+"nombrecliente" : "Cristina", 
+"apellidocliente" : "Giler",
+"titulolibro":"Hamlet", 
+"autorlibro":"William Shakespeare", 
+"generolibro":"Tragedia",
+"fechaentrega" : "2022-01-15",
+"pago" : "$16"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "2098786756",
+"fecha" : "2021-11-10",
+"nombrecliente" : "Milena", 
+"apellidocliente" : "Mejia",
+"titulolibro":"Cien Años de Soledad", 
+"autorlibro":"Gabriel Garcia Marquez", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-01",
+"pago" : "$20"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1516143220",
+"fecha" : "2021-11-01",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Carrasco",
+"titulolibro":"La Iliada",
+"autorlibro":"Homero",
+"generolibro":"Epopeya",
+"fechaentrega" : "2022-01-13",
+"pago" : "$21"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0978675645",
+"fecha" : "2021-11-20",
+"nombrecliente" : "Cecilia", 
+"apellidocliente" : "Sanamarina",
+"titulolibro":"Beloved", 
+"autorlibro":"Toni Morrison", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$22"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0876543219",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Erick", 
+"apellidocliente" : "Cedeño",
+"titulolibro":"La Divina Comedia", 
+"autorlibro":"Dante Alighieri", 
+"generolibro":"Epopeya",
+"fechaentrega" : "2022-01-10",
+"pago" : "$23"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0765432198",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Ignacio", 
+"apellidocliente" : "Zambrano",
+"titulolibro":"Romeo y Julieta", 
+"autorlibro":"William Shakespeare", 
+"generolibro":"Tragedia",
+"fechaentrega" : "2022-01-12",
+"pago" : "$24"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0654321987",
+"fecha" : "2021-11-05",
+"nombrecliente" : "Raul", 
+"apellidocliente" : "Borja",
+"titulolibro":"Poema de Gilgamesh", 
+"autorlibro":"Desconocido", 
+"generolibro":"Epopeya",
+"fechaentrega" : "2022-01-01",
+"pago" : "$25"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0543219876",
+"fecha" : "2021-11-01",
+"nombrecliente" : "Ines", 
+"apellidocliente" : "Valencia",
+"titulolibro":"Harry Potter", 
+"autorlibro":"JK Rowling", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-02",
+"pago" : "$30"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0432198765",
+"fecha" : "2021-11-19",
+"nombrecliente" : "Mildred", 
+"apellidocliente" : "Moreira",
+"titulolibro":"El Cuento de la Criada", 
+"autorlibro":"Margared Atwood", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-09",
+"pago" : "$29"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0321987654",
+"fecha" : "2021-11-11",
+"nombrecliente" : "Esteban", 
+"apellidocliente" : "Quito",
+"titulolibro":"Ulises", 
+"autorlibro":"James Joyce", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$31"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0219876543",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Nadia", 
+"apellidocliente" : "Olmos",
+"titulolibro":"Rebelion en la Granja", 
+"autorlibro":"George Orwell", 
+"generolibro":"Alegoria",
+"fechaentrega" : "2022-01-03",
+"pago" : "$33"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0198765432",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Madeleine", 
+"apellidocliente" : "Velez",
+"titulolibro":"Jane Eyre", 
+"autorlibro":"Charlotte Bronte", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-10",
+"pago" : "$39"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "0123456789",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Rocio", 
+"apellidocliente" : "Coronel",
+"titulolibro":"Madame Bovary", 
+"autorlibro":"Gustave Flaubert", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-16",
+"pago" : "$40"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1765289807",
+"fecha" : "2021-11-03",
+"nombrecliente" : "Karen", 
+"apellidocliente" : "Vera",
+"titulolibro":"Romance de los Tres Reinos", 
+"autorlibro":"Luo Guanzhong", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-04",
+"pago" : "$25"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1509897657",
+"fecha" : "2021-12-09",
+"nombrecliente" : "Johan", 
+"apellidocliente" : "Sanchez",
+"titulolibro":"Viaje al Oeste", 
+"autorlibro":"Wu Chengen", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$34"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053551",
+"fecha" : "2021-11-04",
+"nombrecliente" : "Alexis", 
+"apellidocliente" : "Rodriguez",
+"titulolibro":"Crimen y Castigo", 
+"autorlibro":"Fiodor Dostoievski", 
+"generolibro":"Policial",
+"fechaentrega" : "2022-01-01",
+"pago" : "$30"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053552",
+"fecha" : "2021-11-22",
+"nombrecliente" : "Nelson", 
+"apellidocliente" : "Reyes",
+"titulolibro":"Orgullo y Perjuicio", 
+"autorlibro":"Jane Austen", 
+"generolibro":"Novela rosa",
+"fechaentrega" : "2022-01-03",
+"pago" : "$20"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053553",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Molina",
+"titulolibro":"A la Orilla del Agua", 
+"autorlibro":"Naian", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$19"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053554",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Roberto", 
+"apellidocliente" : "Santos",
+"titulolibro":"Guerra y Paz", 
+"autorlibro":"León Tolstoi", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-12",
+"pago" : "$23"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053556",
+"fecha" : "2021-11-04",
+"nombrecliente" : "Marcos", 
+"apellidocliente" : "León",
+"titulolibro":"Matar a un Ruiseñor", 
+"autorlibro":"Harper Lee", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-14",
+"pago" : "$34"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053557",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Maritza", 
+"apellidocliente" : "Gutierrez",
+"titulolibro":"Ancho Mar de los Sargazos", 
+"autorlibro":"Jean Rhys", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-04",
+"pago" : "$40"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053558",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Franco", 
+"apellidocliente" : "Escamilla",
+"titulolibro":"Fabulas de Esopo", 
+"autorlibro":"Esopo", 
+"generolibro":"Fabulas",
+"fechaentrega" : "2022-01-11",
+"pago" : "$20"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053559",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Luis", 
+"apellidocliente" : "Cevallos",
+"titulolibro":"Candido", 
+"autorlibro":"Voltaire", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-10",
+"pago" : "$28"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053550",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Sergio", 
+"apellidocliente" : "Oña",
+"titulolibro":"Medea", 
+"autorlibro":"Euripides", 
+"generolibro":"Tragedia",
+"fechaentrega" : "2022-02-01",
+"pago" : "$15"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053545",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Corina", 
+"apellidocliente" : "Menendez",
+"titulolibro":"Mahabharata", 
+"autorlibro":"Vyasa", 
+"generolibro":"Pesia",
+"fechaentrega" : "2022-01-17",
+"pago" : "$50"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053535",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Renato", 
+"apellidocliente" : "Olmos",
+"titulolibro":"El Rey Lear", 
+"autorlibro":"William Shakespeare", 
+"generolibro":"Teatro",
+"fechaentrega" : "2022-01-19",
+"pago" : "$39"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053525",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Constanza", 
+"apellidocliente" : "Baez",
+"titulolibro":"La novela de Genji", 
+"autorlibro":"Genji Mnogatari", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$37"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725153555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Alberto", 
+"apellidocliente" : "Cedeño",
+"titulolibro":"Las Penas del Joven Wether", 
+"autorlibro":"Joann Wolfgang", 
+"generolibro":"Novela Epistoral",
+"fechaentrega" : "2022-01-10",
+"pago" : "$30"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725043555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Vicenzo",
+"titulolibro":"El Proceso", 
+"autorlibro":"Franz Kafka", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-10",
+"pago" : "$20"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Olivia", 
+"apellidocliente" : "Valdez",
+"titulolibro":"En Busca del Tiempo Perdido", 
+"autorlibro":"Marcel Proust", 
+"generolibro":"Literatura Modernista",
+"fechaentrega" : "2022-01-12",
+"pago" : "$40"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053455",
+"fecha" : "2021-11-01",
+"nombrecliente" : "Andres", 
+"apellidocliente" : "Zambrano",
+"titulolibro":"Cumbres Borrascosas", 
+"autorlibro":"Emily Bronte", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$30"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1705053553",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Maria", 
+"apellidocliente" : "Vera",
+"titulolibro":"El Hombre Invisible", 
+"autorlibro":"Ralph Ellison", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$20"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1755053555",
+"fecha" : "2021-11-10",
+"nombrecliente" : "Mayra", 
+"apellidocliente" : "Macas",
+"titulolibro":"Moby Dick", 
+"autorlibro":"Herman Melville", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-04-10",
+"pago" : "$50"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Jose", 
+"apellidocliente" : "Rosado",
+"titulolibro":"Sus ojos miraban a Dios", 
+"autorlibro":"Zora Neale Hurst", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-02",
+"pago" : "$20"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1785053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Paula", 
+"apellidocliente" : "Paspuel",
+"titulolibro":"Al Faro", 
+"autorlibro":"Virginia Woolf", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-05",
+"pago" : "$30"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1736053555",
+"fecha" : "2021-11-22",
+"nombrecliente" : "Cassandra", 
+"apellidocliente" : "Choi",
+"titulolibro":"La Verdadera Historia de Ah Q", 
+"autorlibro":"Lu Xun", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-13",
+"pago" : "$30"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1737053555",
+"fecha" : "2021-11-13",
+"nombrecliente" : "Katthy", 
+"apellidocliente" : "Perry",
+"titulolibro":"Alicia en el País de las Maravillas", 
+"autorlibro":"Lewis Carroll", 
+"generolibro":"Cuento de Hadas",
+"fechaentrega" : "2022-01-23",
+"pago" : "$40"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1745053555",
+"fecha" : "2021-11-24",
+"nombrecliente" : "Orlando", 
+"apellidocliente" : "Bloom",
+"titulolibro":"Anna Karenina", 
+"autorlibro":"León Tolstói", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$35"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Daisy", 
+"apellidocliente" : "Dove",
+"titulolibro":"El corazón de las tinieblas", 
+"autorlibro":"Joseph Conrad", 
+"generolibro":"Ficcion",
+"fechaentrega" : "2021-12-15",
+"pago" : "$10"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725055555",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Taylos", 
+"apellidocliente" : "Swift",
+"titulolibro":"Monkey Grip", 
+"autorlibro":"Helen Garner", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-12",
+"pago" : "$22"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725093555",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Karla", 
+"apellidocliente" : "Chicaiza",
+"titulolibro":"La señora Dalloway", 
+"autorlibro":"Virginia Woolf", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-12",
+"pago" : "$34"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725053355",
+"fecha" : "2021-11-29",
+"nombrecliente" : "Rosa", 
+"apellidocliente" : "Suarez",
+"titulolibro":"Edipo Rey", 
+"autorlibro":"Sófocles", 
+"generolibro":"Tragedia",
+"fechaentrega" : "2022-02-25",
+"pago" : "$15"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1720053555",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Antonieta", 
+"apellidocliente" : "De las Nieves",
+"titulolibro":"La Metamorfosis", 
+"autorlibro":"Franz Kafka", 
+"generolibro":"Cuento",
+"fechaentrega" : "2022-02-15",
+"pago" : "$45"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725345555",
+"fecha" : "2021-11-30",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Magan",
+"titulolibro":"La Orestíada", 
+"autorlibro":"Esquilo", 
+"generolibro":"Epopeya",
+"fechaentrega" : "2022-03-23",
+"pago" : "$49"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+db.clientes.insert({
+"cedula" : "1725059995",
+"fecha" : "2021-11-11",
+"nombrecliente" : "Becky", 
+"apellidocliente" : "Gutierrez",
+"titulolibro":"Cenicienta", 
+"autorlibro":"Desconocido", 
+"generolibro":"Cuento de Hadas",
+"fechaentrega" : "2022-01-13",
+"pago" : "$36"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Karol", 
+"apellidocliente" : "Gutierrez",
+"titulolibro":"Aullido", 
+"autorlibro":"Allen Ginsberg", 
+"generolibro":"Poema",
+"fechaentrega" : "2022-02-10",
+"pago" : "$29"
+})
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725993555",
+"fecha" : "2021-11-23",
+"nombrecliente" : "Paulina", 
+"apellidocliente" : "Rubio",
+"titulolibro":"Los Miserables", 
+"autorlibro":"Víctor Hugo", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$21"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Jessy", 
+"apellidocliente" : "Juns",
+"titulolibro":"Middlemarch", 
+"autorlibro":"George Eliot", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-12",
+"pago" : "$28"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725598555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Chavez",
+"titulolibro":"Pedro Páramo", 
+"autorlibro":"Juan Rulfo",
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-15",
+"pago" : "$34"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725053335",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Eddy", 
+"apellidocliente" : "Sheeran",
+"titulolibro":"Los Amantes Mariposa", 
+"autorlibro":"cuento tradicedulaonal", 
+"generolibro":"Ficcedulaon",
+"fechaentrega" : "2022-01-03",
+"pago" : "$45"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725753555",
+"fecha" : "2021-11-20",
+"nombrecliente" : "Mark", 
+"apellidocliente" : "Delfigalo",
+"titulolibro":"Los cuentos de Canterbury", 
+"autorlibro":"Geoffrey Chaucer", 
+"generolibro":"Poesia",
+"fechaentrega" : "2022-01-13",
+"pago" : "$33"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1721053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Zoey", 
+"apellidocliente" : "Brooks",
+"titulolibro":"Panchatantra", 
+"autorlibro":"Vishnu Sharma", 
+"generolibro":"Fabula",
+"fechaentrega" : "2022-01-13",
+"pago" : "$65"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725055355",
+"fecha" : "2021-11-02",
+"nombrecliente" : "Megan", 
+"apellidocliente" : "Fox",
+"titulolibro":"Memorias póstumas de Blas Cubas", 
+"autorlibro":"Joaquim Machado de Assis", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$22"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725453555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Ana", 
+"apellidocliente" : "Sotalin",
+"titulolibro":"La plenitud de la señorita Brodie", 
+"autorlibro":"Muriel Spark", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-17",
+"pago" : "$55"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1295053555",
+"fecha" : "2021-11-15",
+"nombrecliente" : "Chenoa", 
+"apellidocliente" : "Stalin",
+"titulolibro":"Los Filántropos en Harapos", 
+"autorlibro":"Robert Tressell", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$44"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725253555",
+"fecha" : "2021-11-10",
+"nombrecliente" : "Ricardo", 
+"apellidocliente" : "Arjona",
+"titulolibro":"La cancedulaón de Lawino", 
+"autorlibro":"Okot p'Bitek", 
+"generolibro":"Poesia",
+"fechaentrega" : "2022-03-10",
+"pago" : "$65"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Diego", 
+"apellidocliente" : "Robles",
+"titulolibro":"El cuaderno dorado", 
+"autorlibro":"Doris Lessing", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-14",
+"pago" : "$56"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1315669626",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Ricardo", 
+"apellidocliente" : "Montaner",
+"titulolibro":"Hijos de la Medianoche", 
+"autorlibro":"Salman Rushdie", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-13",
+"pago" : "$45"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1345647328",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Daniel", 
+"apellidocliente" : "Vela",
+"titulolibro":"Condicedulaones nerviosas", 
+"autorlibro":"Tsitsi Dangarembga", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-13",
+"pago" : "$65"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725343555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Margarita", 
+"apellidocliente" : "Solorzano",
+"titulolibro":"El maestro y Margarita", 
+"autorlibro":"Mikhail Bulgakov", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-02",
+"pago" : "$23"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725013515",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Leonardo", 
+"apellidocliente" : "Dicaprio",
+"titulolibro":"Ramayana",
+"autorlibro":"Valmiki", 
+"generolibro":"Epopeya",
+"fechaentrega" : "2022-01-01",
+"pago" : "$65"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1720553555",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Mary", 
+"apellidocliente" : "Rose",
+"titulolibro":"Antígona",
+"autorlibro":"Sófocles", 
+"generolibro":"Tragedia",
+"fechaentrega" : "2022-01-13",
+"pago" : "$76"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Carla", 
+"apellidocliente" : "Macedulaas",
+"titulolibro":"Dracula", 
+"autorlibro":"Bram Stoker", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-14",
+"pago" : "$44"
+})
+
+//////////////////////////////////////////////////////////////////////////////////////
+> db.clientes.insert({
+"cedula" : "1635053555",
+"fecha" : "2021-11-04",
+"nombrecliente" : "Dayana", 
+"apellidocliente" : "Orellana",
+"titulolibro":"La mano izquierda de la oscuridad", 
+"autorlibro":"Ursula K. Le Guin", 
+"generolibro":"cedulaencedulaa Ficcedulaon",
+"fechaentrega" : "2022-01-15",
+"pago" : "$55"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1565053555",
+"fecha" : "2021-12-02",
+"nombrecliente" : "Lenin", 
+"apellidocliente" : "Vela",
+"titulolibro":"Cuento de Navidad", 
+"autorlibro":"Charles Dickens", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-02-10",
+"pago" : "$43"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725053444",
+"fecha" : "2021-11-01",
+"nombrecliente" : "Jeison", 
+"apellidocliente" : "Holgin",
+"titulolibro":"América", 
+"autorlibro":"Raúl Otero Reiche", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-12",
+"pago" : "$32"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+> db.clientes.insert({
+"cedula" : "1725053555",
+"fecha" : "2021-12-01",
+"nombrecliente" : "Veronica", 
+"apellidocliente" : "Arteaga",
+"titulolibro":"Ante la Ley", 
+"autorlibro":"Franz Kafka",
+"generolibro":"Ficcedulaon",
+"fechaentrega" : "2022-02-11",
+"pago" : "$35"
+})
+//////////////////////////////////////////////////////////////////////////////////////
+
+db.clientes.insert({
+"cedula" : "1569632569",
+"fecha" : "2021-10-11",
+"nombrecliente" : "Luis", 
+"apellidocliente" : "Solis",
+"titulolibro":"El cazador oculto", 
+"autorlibro":"J.D. Salinger", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "22222222222",
+"fecha" : "2021-02-12",
+"nombrecliente" : "Erika", , 
+"apellidocliente" : "Velez",
+"titulolibro":"BlancaNieves", 
+"autorlibro":"J.D. Mongez", 
+"generolibro":"Pelicula",
+"fechaentrega" :"2022-02-17",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "33333333333",
+"fecha" : "2021-09-09",
+"nombrecliente" : "Karina", 
+"apellidocliente" : "Cabrera" ,
+"titulolibro":"Karenina", 
+"autorlibro":"J.D. Verdezoto", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-07-18",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "44444444444",
+"fecha" : "2021-02-11",
+"nombrecliente" : "Maria", 
+"apellidocliente" : "Guarnizo",
+"titulolibro":"Blade Runner", 
+"autorlibro":"J.A. Cabrera", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-03-18",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "33444444444",
+"fecha" : "2021-09-17",
+"nombrecliente" : "Dario", 
+"apellidocliente" : "Guaman" ,
+"titulolibro":"Hijos de los hombres", 
+"autorlibro":"H.G. Sallas", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-02",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "777777777",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jose", 
+"apellidocliente" : "Molina",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "8888888888",
+"fecha" : "2021-08-10",
+"nombrecliente" : "Valentina", 
+"apellidocliente" : "Romero" ,
+"titulolibro":"El velo pintado", 
+"autorlibro":"H.K. Guarnizo", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-13",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1569632569",
+"fecha" : "2021-10-11",
+"nombrecliente" : "Kevin", 
+"apellidocliente" : "Alvarez" ,
+"titulolibro":"Blade Runner", 
+"autorlibro":"J.T. Runtesqui", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-12",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "7888777777",
+"fecha" : "2021-10-07",
+"nombrecliente" : "Ronaldo", 
+"apellidocliente" : "Puzo",
+"titulolibro":"El señor de los anillos", 
+"autorlibro": "Y.L. Tolkien", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "777777777",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Felipe", 
+"apellidocliente" : "Molina",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "777777777",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jose", 
+"apellidocliente" : "Luz",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "777777777",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jose", 
+"apellidocliente" : "Jilson",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "777777723",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Joselin", 
+"apellidocliente" : "Molina",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1222111212",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jeremy", 
+"apellidocliente" : "Molina",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "7777777211",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jereis", 
+"apellidocliente" : "Guinness",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "7777777211",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Fede",
+"apellidocliente" : "Guinnesse",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "7777777211",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Sissy", 
+"apellidocliente" : "Albarex",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : ""12221112234,
+"fecha" : "2021-03-17",
+"nombrecliente" : "Alfred",  
+"apellidocliente" : "Montaner",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : ""1222111233",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Anthony",  
+"apellidocliente" : "Christie" ,
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "7777777211",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Kevin ", 
+"apellidocliente" : "Larsson",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : ""12221112134",
+"fecha" : "2021-03-17",
+"nombrecliente" :  "Miguel  ",  
+"apellidocliente" : "",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "12221112122",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Paco", 
+"apellidocliente" : "Blomkvist",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1222111212",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Agustín", 
+"apellidocliente" : "Molina",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1222111212",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jesday", 
+"apellidocliente" : "Salander",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "99999877779",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jerdy", 
+"apellidocliente" : "Mendez",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777((888888888888
+db.clientes.insert({
+"cedula" : "11111111",
+"fecha" : "2021-10-11",
+"nombrecliente" : "Lenadara", 
+"apellidocliente" : "Solisa",
+"titulolibro":"El cazador oculto", 
+"autorlibro":"J.D. Salinger", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1233333333",
+"fecha" : "2021-02-12",
+"nombrecliente" : "Liliber",  
+"apellidocliente" : "Mora",
+"titulolibro":"BlancaNieves", 
+"autorlibro":"J.D. Mongez", 
+"generolibro":"Pelicula",
+"fechaentrega" :"2022-02-17",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "12322222322",
+"fecha" : "2021-09-09",
+"nombrecliente" : "Karla", 
+"apellidocliente" : "Casandre" ,
+"titulolibro":"Karenina", 
+"autorlibro":"J.D. Verdezoto", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-07-18",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "888888888",
+"fecha" : "2021-02-12",
+"nombrecliente" : "Marly", 
+"apellidocliente" : "Ruiz",
+"titulolibro":"Blade Runner", 
+"autorlibro":"J.A. Cabrera", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-03-18",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1111188889",
+"fecha" : "2021-09-17",
+"nombrecliente" : "Darquiel", 
+"apellidocliente" : "Guamana" ,
+"titulolibro":"Hijos de los hombres", 
+"autorlibro":"H.G. Sallas", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-02",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "9999999988",
+"fecha" : "2021-03-19",
+"nombrecliente" : "Josefina", 
+"apellidocliente" : "Garcia",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1238888988",
+"fecha" : "2021-08-10",
+"nombrecliente" : "Valetian", 
+"apellidocliente" : "Rosmery" ,
+"titulolibro":"El velo pintado", 
+"autorlibro":"H.K. Guarnizo", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-13",
+"pago" : "$20"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "12121111333",
+"fecha" : "2021-10-11",
+"nombrecliente" : "Alex", 
+"apellidocliente" : "Alcivar" ,
+"titulolibro":"Blade Runner", 
+"autorlibro":"J.T. Runtesqui", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-13",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1234788888",
+"fecha" : "2021-10-07",
+"nombrecliente" : "Ronaldillo", 
+"apellidocliente" : "Puza",
+"titulolibro":"El señor de los anillos", 
+"autorlibro": "Y.L. Tolkien", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-12",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "999998888",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Felix", 
+"apellidocliente" : "Molin",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-19",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "111119101001",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Aire", 
+"apellidocliente" : "Luz",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "999988888",
+"fecha" : "2021-03-19",
+"nombrecliente" : "Jase", 
+"apellidocliente" : "jeremts",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-12",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "333333333",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Ray", 
+"apellidocliente" : "Melrvery",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-04",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "112221112",
+"fecha" : "2021-03-17",
+"nombrecliente" : "gregory", 
+"apellidocliente" : "torres",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-22",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "7899990987",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Rider", 
+"apellidocliente" : "salsa",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1211111111",
+"fecha" : "2021-03-12",
+"nombrecliente" : "Federica",
+"apellidocliente" : "Gele",
+"titulolibro":"El nombre de la rosa", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-03",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "11112200098",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Wilmer", 
+"apellidocliente" : "Salmon",
+"titulolibro":"Pirata del caribe ", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "222333323",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Alfredita",  
+"apellidocliente" : "Montanere",
+"titulolibro":"La carretera", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-02-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "88877777777",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Anthoniera",  
+"apellidocliente" : "Chril" ,
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-13",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "2222222222",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Azabjan ", 
+"apellidocliente" : "Lersson",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-04",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "12222222222",
+"fecha" : "2021-03-17",
+"nombrecliente" :  "Miguelina  ",  
+"apellidocliente" : "poroyo",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "900009877",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Patricia", 
+"apellidocliente" : "Bloges",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-13",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "222222233332",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Agustína", 
+"apellidocliente" : "Mendex",
+"titulolibro":"Harry Potter y el prisionero de Azkabán", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-02-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1222111212",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jesday", 
+"apellidocliente" : "Salander",
+"titulolibro":"Harry Potter y el prisionero de Azkabán", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "99999877779",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jerdy", 
+"apellidocliente" : "Mendez",
+"titulolibro":""Drácula", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777999999999
+///////////////////77777
+db.clientes.insert({
+"cedula" : "9988888889",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Elena", 
+"apellidocliente" : "Vilagomez",
+"titulolibro":"Elena vill", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-03",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1299999998",
+"fecha" : "2021-03-19",
+"nombrecliente" : "Davi", 
+"apellidocliente" : "Alvares",
+"titulolibro":"El silencio de los corderos", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-12",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "11122999998",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Rayely", 
+"apellidocliente" : "Macas",
+"titulolibro":"Matar a un ruiseñors ", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-04",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1234565454",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Luis", 
+"apellidocliente" : "Nelex",
+"titulolibro":"Parque Jurásico ", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-22",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "4444444444",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Ridera", 
+"apellidocliente" : "salomon",
+"titulolibro":"Alguien voló sobre el nido del cuco", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-01-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1211111107",
+"fecha" : "2021-03-12",
+"nombrecliente" : "Lene",
+"apellidocliente" : "Veluz",
+"titulolibro":"El nombre de la rosa Juana", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-03",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "11112200098",
+"fecha" : "2021-03-17",
+"nombrecliente" : "ValentLaina", 
+"apellidocliente" : "Monseraz",
+"titulolibro":" La momia ", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1111122233333",
+"fecha" : "2021-03-17",
+"nombrecliente" : Stephen", 
+"apellidocliente" : "Montanerejk",
+"titulolibro":"La carretera", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-02-07",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "1111122221",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Chorita",  
+"apellidocliente" : "Muñoz" ,
+"titulolibro":"El Gatopardo", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-13",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "9888888888",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Meliz ", 
+"apellidocliente" : "Duliz",
+"titulolibro":"Misery", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-02",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "12222222222",
+"fecha" : "2021-03-17",
+"nombrecliente" :  "Miguelina  ",  
+"apellidocliente" : "poroyo",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-02-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "22222222221",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Patricio", 
+"apellidocliente" : "Blogesy",
+"titulolibro":"Los santos inocentes", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-04-11",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "222222233332",
+"fecha" : "2021-03-17",
+"nombrecliente" : "Gregory", 
+"apellidocliente" : "Mendexa",
+"titulolibro":"Matar a un ruiseñor", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-07-11",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "3333333333", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Paul ", 
+"apellidocliente" : "Velez",
+"titulolibro":""Animal", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333333", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Maria", 
+"apellidocliente" : "Alcivar",
+"titulolibro":"The plants", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333331", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jona", 
+"apellidocliente" : "Galcir",
+"titulolibro":"Ulises", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333332", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Gabriel", 
+"apellidocliente" : "Santaner",
+"titulolibro":"Ala orilla del agua", 
+"autorlibro":"A.F. Felex", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333334", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Bryan", 
+"apellidocliente" : "Ortiz",
+"titulolibro":"paz y odio", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-03-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "3333378333", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Andre ", 
+"apellidocliente" : "Montes",
+"titulolibro":"Edipo rey", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-02-14",
+"pago" : "$30"
+})
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333398", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Carla ", 
+"apellidocliente" : "Rosales",
+"titulolibro":"Elegida", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333389", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Jonatin", 
+"apellidocliente" : "Galciar",
+"titulolibro":"El hombre invisible", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333321", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Noelia", 
+"apellidocliente" : "Armijos",
+"titulolibro":"Sarsagos", 
+"autorlibro":"A.F. Felex", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-12-14",
+"pago" : "$30"
+})
+///////////////////77777
+///////////////////77777
+db.clientes.insert({
+"cedula" : "34344333312", 
+"fecha" : "2021-03-17",
+"nombrecliente" : "Juan", 
+"apellidocliente" : "Bnexived",
+"titulolibro":"Moby Dick", 
+"autorlibro":"A.F. Figueroa", 
+"generolibro":"Novela",
+"fechaentrega" :"2022-03-14",
+"pago" : "$30"
+})
+///////////////////
+
