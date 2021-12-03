@@ -1,0 +1,804 @@
+db.clientes.insert({
+"cedula" : "1750990572",
+"fecha" : "2021-10-11",
+"nombrecliente" : "Dyllan", 
+"apellidocliente" : "Raza",
+"titulolibro":"El cazador oculto", 
+"autorlibro":"J.D. Salinger", 
+"generolibro":"Novela",
+"fechaentrega" : "2022-01-11",
+"pago" : "$20"
+})
+db.clientes.insert({
+"cedula" : "3659545632",
+"fecha" : "2021-11-21",
+"nombrecliente" : "Mario", 
+"apellidocliente" : "Andrade",
+"titulolibro":"Matar un ruiseñor", 
+"autorlibro":"Harper Lee", 
+"generolibro":"Novela",
+"fechaentrega" : "2021-12-05",
+"pago" : "$22"
+})
+db.clientes.insert({
+"cedula" : "4585236985",
+"fecha" : "2021-09-17",
+"nombrecliente": "Carlos", 
+"apellidocliente"  : "Cedeño",
+"titulolibro":"Invisible", 
+"autorlibro":"Eloy Moreno", 
+"generolibro":"Ficción",
+"fechaentrega"  : "2021-11-05",
+"pago" : "$18"
+})
+db.clientes.insert({
+"cedula" : "1024596325",
+"fecha" : "2020-10-10",
+"nombrecliente": "Carlos", 
+"apellidocliente": "Cedeño",
+"titulolibro":"Bajo la misma estrella", 
+"autorlibro":"John Green", 
+"generolibro":"Novela, Ficción adulto joven, Novela rosa",
+"fechaentrega" : "2021-01-25",
+"pago" : "$30"
+})
+db.clientes.insert({
+"cedula": "5896548565",
+"fecha" : "2021-07-23",
+"nombrecliente" : "Blanca", 
+"apellidocliente" : "Rosado",
+"titulolibro":"Mujercitas", 
+"autorlibro":"Louisa May Alcott", 
+"generolibro":"Novela, Literatura infantil, Ficción, Novela de aprendizaje, Comedia",
+"fechaentrega" : "2021-09-06",
+"pago" : "$32"
+})
+6> db.clientes.insert({
+"cedula": "2315469875",
+"fecha": "2021-10-12",
+"nombreclientes": "Angel", 
+"apellidocliente" : "Macas",
+"titulolibro":"Frankenstein o el moderno Prometeo",
+"autorlibro":"Mary Shelley", 
+"generolibro":"Ciencia ficción, Ficción gótica, Terror, Novela rosa, Ciencia ficción blanda",
+"fechaentrega": "2021-11-15",
+"pago": "$30"
+})
+db.clientes.insert({
+"cedula": "4562123598",
+"fecha": "2021-12-01",
+"nombreclientes": "Sara", 
+"apellidocliente" : "Navarrete",
+"titulolibro":"El retrato de Dorian Gray",
+"autorlibro":"Oscar Wilde", 
+"generolibro":"Ficción gótica, Terror, Novela filosófica",
+"fechaentrega": "2022-01-07",
+"pago": "$25"
+})
+8> db.clientes.insert({
+"cedula" : "3265214563",
+"fecha": "2021-12-10",
+"nombreclientes": "Cecilia", 
+"apellidocliente" : "Carrazco",
+"titulolibro":"Los juegos del hambre",
+"autorlibro":"Suzanne Collins", 
+"generolibro":"Literatura infantil, Novela, Ficción adulto joven, Thriller",
+"fechaentrega": "2022-02-03",
+"pago": "$15"
+})
+9> db.clientes.insert({
+"cedula": "2315623652",
+"fecha": "2020-10-10",
+"nombreclientes": "Karol", 
+"apellidocliente" : "Herrera",
+"titulolibro":"Orgullo y prejuicio",
+"autorlibro":"Jane Austen", 
+"generolibro":"Novela rosa, Ficción, Sátira, Novela costumbrista",
+"fechaentrega": "2021-02-25",
+"pago": "$28"
+})
+10> db.clientes.insert({
+"cedula": "2569356841",
+"fecha": "2021-07-08",
+"nombreclientes": "Juan", 
+"apellidocliente" : "Dueñas",
+"titulolibro":"La historia interminable",
+"autorlibro":"Michael Ende", 
+"generolibro":"Literatura infantil, Novela, Literatura fantástica, Alta fantasía",
+"fechaentrega": "2021-10-20",
+"pago": "$13"
+})
+11> db.clientes.insert({
+"cedula": "1454652315",
+"fecha": "2021-03-16",
+"nombreclientes": "Omar", 
+"apellidocliente" : "Farias",
+"titulolibro":"El principe de la niebla",
+"autorlibro":"John Green", 
+"generolibro":"Novela, Ficción adulto joven, Novela rosa",
+"fechaentrega": "2021-1-25",
+"pago": "$30"
+})
+12> db.clientes.insert({
+"cedula": "1024596325",
+"fecha": "2021-03-09",
+"nombreclientes": "Rita", 
+"apellidocliente" : "Moreira",
+"titulolibro":"El Bestiario de Axlin",
+"autorlibro":" Laura Gallego García", 
+"generolibro":" Ficción de aventuras, Literatura fantástica",
+"fechaentrega": "2021-04-09",
+"pago": "$30"
+})
+13> db.clientes.insert({
+"cedula": "14589658745",
+"fecha": "2021-05-14",
+"nombreclientes": "Sandra", 
+"apellidocliente" : "Ruíz",
+"titulolibro":"Harry Potter y la piedra filosofal",
+"autorlibro":"J. K. Rowling", 
+"generolibro":"Novela, Literatura infantil, Literatura fantástica, Alta fantasía",
+"fechaentrega": "2021-18-10",
+"pago": "$18"
+})
+14> db.clientes.insert({
+"cedula": "1545786345",
+"fecha": "2021-03-27",
+"nombreclientes": "Hilda", 
+"apellidocliente" : "Solorzano",
+"titulolibro":"El odio que das",
+"autorlibro":"Angie Thomas", 
+"generolibro":" Novela, Ficción adulto joven",
+"fechaentrega": "2021-04-25",
+"pago": "$16"
+})
+15> db.clientes.insert({
+"cedula": "4563256215",
+"fecha": "2020-05-12",
+"nombreclientes": "Martha", 
+"apellidocliente" : "Alcivar",
+"titulolibro":"1984",
+"autorlibro":"George Orwell", 
+"generolibro":"Ciencia ficción, ciencia ficción social, Ficción política",
+"fechaentrega": "2020-07-12",
+"pago": "$26"
+})
+16> db.clientes.insert({
+"cedula": "2365987452",
+"fecha": "2021-08-05",
+"nombreclientes": "Laura", 
+"apellidocliente" : "Mendoza",
+"titulolibro":"El niño con el pijama de rayas",
+"autorlibro":"John Boyne", 
+"generolibro":"Novela, Ficción, Literatura infantil, Fábula, Novela histórica",
+"fechaentrega": "2021-10-08",
+"pago": "$38"
+})
+17> db.clientes.insert({
+"cedula": "4514521521",
+"fecha": "2020-09-19",
+"nombreclientes": "Ángela", 
+"apellidocliente" : "Gonzales",
+"titulolibro":"Momo",
+"autorlibro":"John Green", 
+"generolibro":"Novela, Ficción adulto joven, Novela rosa",
+"fechaentrega": "2020-11-19",
+"pago": "$40"
+})
+18> db.clientes.insert({
+"cedula": "3215236521",
+"fecha": "2021-04-07",
+"nombreclientes": "Marcos", 
+"apellidocliente" : "Bravo",
+"titulolibro":"Un mundo feliz",
+"autorlibro":"Aldous Huxley", 
+"generolibro":" Novela, Ciencia ficción",
+"fechaentrega": "2021-06-07",
+"pago": "$42"
+})
+19> db.clientes.insert({
+"cedula": "1546985421",
+"fecha": "2021-08-23",
+"nombreclientes": "Ulises", 
+"apellidocliente" : "Cando",
+"titulolibro":"El gran Gatsby",
+"autorlibro":"F. Scott Fitzgerald", 
+"generolibro":"Novela, Ficción, Tragedia",
+"fechaentrega": "2021-10-23",
+"pago": "$27"
+})
+20> db.clientes.insert({
+"cedula": "4896521352",
+"fecha": "2021-05-13",
+"nombreclientes": "Mariela", 
+"apellidocliente" : "Borja",
+"titulolibro":"La lección de August",
+"autorlibro":"Raquel Palacio", 
+"generolibro":"Novela, Ficción, Literatura infantil",
+"fechaentrega": "2021-07-13",
+"pago": "$30"
+})
+21> db.clientes.insert({
+"cedula": "1546985696",
+"fecha": "2021-03-05",
+"nombreclientes": "Griselda", 
+"apellidocliente" : "Ordoñez",
+"titulolibro":"Asesino de Brujas - Vol. 1. La Bruja Blanca",
+"autorlibro":"Shelby Mahurin", 
+"generolibro":"Novela rosa, Literatura fantástica",
+"fechaentrega": "2021-05-05",
+"pago": "$15"
+})
+22> db.clientes.insert({
+"cedula": "1202320125",
+"fecha": "2021-02-20",
+"nombreclientes": "Raúl", 
+"apellidocliente" : "Ortega",
+"titulolibro":"A través de ti (Trilogía Hermanos Hidalgo 2)",
+"autorlibro":"Ariana Godoy", 
+"generolibro":"Ficción adulto joven",
+"fechaentrega": "2021-05-02",
+"pago": "$45"
+})
+23> db.clientes.insert({
+"cedula": "6325621420",
+"fecha": "2021-04-10",
+"nombreclientes": "Jahaira", 
+"apellidocliente" : "Menendez",
+"titulolibro":"La metamorfosis",
+"autorlibro":"Franz Kafka", 
+"generolibro":"Cuento, Novela corta, Absurdo, Literatura fantástica",
+"fechaentrega": "2021-04-25",
+"pago": "$29"
+})
+24> db.clientes.insert({
+"cedula": "7548521021",
+"fecha": "2021-06-16",
+"nombreclientes": "Laura", 
+"apellidocliente" : "Viteri",
+"titulolibro":"El señor de las moscas",
+"autorlibro":"William Golding", 
+"generolibro":"Novela, Alegoría, Ficción adulto joven",
+"fechaentrega": "2021-07-10",
+"pago": "$14"
+})
+25> db.clientes.insert({
+"cedula": "3562301458",
+"fecha": "2020-10-10",
+"nombreclientes": "Daniela", 
+"apellidocliente" : "Vargas",
+"titulolibro":"Eleanor & Park",
+"autorlibro":"Rainbow Rowell", 
+"generolibro":"Novela, Ficción adulto joven, Novela rosa",
+"fechaentrega": "2020-12-25",
+"pago": "$31"
+})
+26> db.clientes.insert({
+"cedula": "1254856326",
+"fecha": "2021-06-07",
+"nombreclientes": "Leonnor", 
+"apellidocliente" : "Manzaba",
+"titulolibro":"Las ventajas de ser invisible (The Perks of Being a Wallflower)",
+"autorlibro":"Stephen Chbosky", 
+"generolibro":"Novela, Ficción adulto joven, Novela epistolar, Novela de aprendizaje",
+"fechaentrega": "2021-08-15",
+"pago": "$60"
+})
+27> db.clientes.insert({
+"cedula": "1548563256",
+"fecha": "2020-10-10",
+"nombreclientes": "Pierina", 
+"apellidocliente" : "Torres",
+"titulolibro":"Tú y otros desastres naturales",
+"autorlibro":" María Martínez", 
+"generolibro":"Romance",
+"fechaentrega": "2021-1-25",
+"pago": "$50"
+})
+28> db.clientes.insert({
+"cedula": "1021546985",
+"fecha": "2021-07-15",
+"nombreclientes": "Sandra", 
+"apellidocliente" : "Rosales",
+"titulolibro":"Oliver Twist",
+"autorlibro":" Charles Dickens", 
+"generolibro":"Novela, Ficción, Novela social",
+"fechaentrega": "2021-09-05",
+"pago": "$47"
+})
+29> db.clientes.insert({
+"cedula": "5236985421",
+"fecha": "2021-09-03",
+"nombreclientes": "Melissa", 
+"apellidocliente" : "Ferrin",
+"titulolibro":"Maus",
+"autorlibro":"Art Spiegelman", 
+"generolibro":"Historieta, Novela gráfica, Novela, Cómic",
+"fechaentrega": "2021-10-10",
+"pago": "$35"
+})
+30> db.clientes.insert({
+"cedula": "2659854856",
+"fecha": "2020-02-01",
+"nombreclientes": "Edison", 
+"apellidocliente" : "García",
+"titulolibro":"El curioso incidente del perro a medianoche",
+"autorlibro":"Mark Haddon", 
+"generolibro":"Novela, Misterio, Novela de aprendizaje, Policial",
+"fechaentrega": "2020-03-20",
+"pago": "$25"
+})
+31> db.clientes.insert({
+"cedula": "6523654895",
+"fecha": "2021-09-27",
+"nombreclientes": "Teresa", 
+"apellidocliente" : "Mendoza",
+"titulolibro":"Antes de diciembre",
+"autorlibro":"Joana Marcús", 
+"generolibro":"Ficción adulto joven",
+"fechaentrega": "2021-10-27",
+"pago": "$30"
+})
+32> db.clientes.insert({
+"cedula": "3021563202",
+"fecha": "2021-07-10",
+"nombreclientes": "Ricardo", 
+"apellidocliente" : "Cordoba",
+"titulolibro":"La joven de las naranjas",
+"autorlibro":"Jostein Gaarder", 
+"generolibro":"Ficción",
+"fechaentrega": "2021-08-25",
+"pago": "$38"
+})
+33> db.clientes.insert({
+"cedula": "8562322566",
+"fecha": "2021-10-20",
+"nombreclientes": "Fabián", 
+"apellidocliente" : "Cedeño",
+"titulolibro":"El mundo de Sofía",
+"autorlibro":"Jostein Gaarder", 
+"generolibro":"Novela, Novela filosófica",
+"fechaentrega": "2021-11-25",
+"pago": "$16"
+})
+34> db.clientes.insert({
+"cedula": "5694596325",
+"fecha": "2021-05-17",
+"nombreclientes": "Tatiana", 
+"apellidocliente" : "Montes",
+"titulolibro":"El principito",
+"autorlibro":"Antoine de Saint-Exupéry, Shōmei Yō", 
+"generolibro":"Literatura infantil, Fábula, Novela corta, Ficción especulativa",
+"fechaentrega": "2021-06-17",
+"pago": "$30"
+})
+35> db.clientes.insert({
+"cedula": "1255489652",
+"fecha": "2021-04-18",
+"nombreclientes": "Cesar", 
+"apellidocliente" : "Anchundia",
+"titulolibro":"Una corte de llamas plateadas",
+"autorlibro":" Sarah J. Maas", 
+"generolibro":"Fantasía romántica",
+"fechaentrega": "2021-05-20",
+"pago": "$26"
+})
+36> db.clientes.insert({
+"cedula": "1458963256",
+"fecha": "2021-08-30",
+"nombreclientes": "Klever", 
+"apellidocliente" : "Ortiz",
+"titulolibro":"Diario de Ana Frank",
+"autorlibro":" Ana Frank", 
+"generolibro":"Biografía, Autobiografía, Literatura judía",
+"fechaentrega": "2021-10-25",
+"pago": "$29"
+})
+37> db.clientes.insert({
+"cedula": "5421563256",
+"fecha": "2021-05-20",
+"nombreclientes": "Brianna", 
+"apellidocliente" : "Alvares",
+"titulolibro":"Campos de fresas",
+"autorlibro":" Jordi Sierra i Fabra", 
+"generolibro":"Ficción",
+"fechaentrega": "2021-07-25",
+"pago": "$46"
+})
+38> db.clientes.insert({
+"cedula": "2154896523",
+"fecha": "2021-02-14",
+"nombreclientes": "Romina", 
+"apellidocliente" : "Rodríguez",
+"titulolibro":"La Luz de Las Profundidades",
+"autorlibro":"Frances Hardinge", 
+"generolibro":"Literatura fantástica",
+"fechaentrega": "2021-03-15",
+"pago": "$10"
+})
+39> db.clientes.insert({
+"cedula": "6326320158",
+"fecha": "2021-09-15",
+"nombreclientes": "Cynthia", 
+"apellidocliente" : "Palma",
+"titulolibro":"Por trece razones",
+"autorlibro":"Jay Asher", 
+"generolibro":"Novela, Ficción adulto joven",
+"fechaentrega": "2021-10-15",
+"pago": "$60"
+})
+40> db.clientes.insert({
+"cedula": "1254856325",
+"fecha": "2021-10-21",
+"nombreclientes": "Cleo", 
+"apellidocliente" : "Zambrano",
+"titulolibro":"Las aventuras de Alicia en el país de las maravillas",
+"autorlibro":"Lewis Carroll", 
+"generolibro":"Cuento de hadas, Literatura infantil, Nonsense, Literatura fantástica, Ficción de aventuras, Absurdo",
+"fechaentrega": "2021-11-20",
+"pago": "$70"
+})
+41> db.clientes.insert({
+"cedula": "2548623598",
+"fecha": "2021-06-09",
+"nombreclientes": "Maite", 
+"apellidocliente" : "Pinargote",
+"titulolibro":"El viejo y el mar",
+"autorlibro":"Ernest Hemingway", 
+"generolibro":"Novela, Alegoría, Historia de mar",
+"fechaentrega": "2021-07-25",
+"pago": "$45"
+})
+42> db.clientes.insert({
+"cedula": "1562398562",
+"fecha": "2021-09-07",
+"nombreclientes": "Rosa", 
+"apellidocliente" : "Loor",
+"titulolibro":"Crimen y castigo",
+"autorlibro":" Fiódor Dostoyevski", 
+"generolibro":"Novela, Novela policíaca, Misterio, Novela filosófica, Policial",
+"fechaentrega": "2021-10-25",
+"pago": "$32"
+})
+43> db.clientes.insert({
+"cedula": "2036598562",
+"fecha": "2021-07-03",
+"nombreclientes": "Cristhian", 
+"apellidocliente" : "Castro",
+"titulolibro":"Bad Ash 2. Sin miedo",
+"autorlibro":"Alina Not", 
+"generolibro":" Ficción, Romance contemporáneo",
+"fechaentrega": "2021-09-05",
+"pago": "$23"
+})
+44> db.clientes.insert({
+"cedula": "5623156236",
+"fecha": "2021-07-10",
+"nombreclientes": "Kymberlin", 
+"apellidocliente" : "Duran",
+"titulolibro":"Mi amor de Wattpad",
+"autorlibro":"Ariana Godoy", 
+"generolibro":"Ficción",
+"fechaentrega": "2021-10-25",
+"pago": "$70"
+})
+45> db.clientes.insert({
+"cedula": "4125632156",
+"fecha": "2021-10-01",
+"nombreclientes": "Blanca", 
+"apellidocliente" : "Peréz",
+"titulolibro":"Historia de dos ciudades (A Tale of Two Cities)",
+"autorlibro":" Charles Dickens", 
+"generolibro":"Novela, Novela histórica, Crítica social",
+"fechaentrega": "2021-1-25",
+"pago": "$30"
+})
+46> db.clientes.insert({
+"cedula": "1024596325",
+"fecha": "2020-10-10",
+"nombreclientes": "Carlos", 
+"apellidocliente" : "Cedeño",
+"titulolibro":"Bajo la misma estrella",
+"autorlibro":"John Green", 
+"generolibro":"Novela, Ficción adulto joven, Novela rosa",
+"fechaentrega": "2021-10-25",
+"pago": "$10"
+})
+47> db.clientes.insert({
+"cedula": "2563214589",
+"fecha": "2021-11-08",
+"nombreclientes": "Nuvia", 
+"apellidocliente" : "Solorzano",
+"titulolibro":"El amor en los tiempos del cólera",
+"autorlibro":"Gabriel García Márquez", 
+"generolibro":" Novela, Realismo mágico, Novela rosa, Ficción",
+"fechaentrega": "2021-12-10",
+"pago": "$30"
+})
+48> db.clientes.insert({
+"cedula": "9562301256",
+"fecha": "2021-04-13",
+"nombreclientes": "Terry", 
+"apellidocliente" : "Bolaños",
+"titulolibro":"Como agua para chocolate",
+"autorlibro":" Laura Esquivel", 
+"generolibro":"Novela, Realismo mágico, Ficción, Novela rosa, Tragedia",
+"fechaentrega": "2021-05-21",
+"pago": "$35"
+})
+49> db.clientes.insert({
+"cedula": "6326541203",
+"fecha": "2021-01-10",
+"nombreclientes": "Stefany", 
+"apellidocliente" : "Villalobos",
+"titulolibro":"Ana Karenina",
+"autorlibro":"León Tolstói", 
+"generolibro":"Novela, Ficción, Realismo literario",
+"fechaentrega": "2021-02-25",
+"pago": "$15"
+})
+50> db.clientes.insert({
+"cedula": "1254896321",
+"fecha": "2021-03-23",
+"nombreclientes": "Teddy", 
+"apellidocliente" : "Dominicana",
+"titulolibro":"Un paseo para recordar (A Walk to Remember)",
+"autorlibro":"Nicholas Sparks", 
+"generolibro":"Novela, Novela rosa, Novela de aprendizaje",
+"fechaentrega": "2021-04-25",
+"pago": "$45"
+})
+51> db.clientes.insert({
+"cedula": "5421632562",
+"fecha": "2021-06-21",
+"nombreclientes": "Irina", 
+"apellidocliente" : "Napa",
+"titulolibro":"Cumbres borrascosas",
+"autorlibro":"Emily Brontë", 
+"generolibro":"Novela, Ficción gótica, Novela rosa, Tragedia",
+"fechaentrega": "2021-07-10",
+"pago": "$30"
+})
+52> db.clientes.insert({
+"cedula": "1203256895",
+"fecha": "2021-10-10",
+"nombreclientes": "Endy", 
+"apellidocliente" : "Landeta",
+"titulolibro":"Tú y otros desastres naturales",
+"autorlibro":"María Martínez", 
+"generolibro":"Romance",
+"fechaentrega": "2021-11-25",
+"pago": "$45"
+})
+53> db.clientes.insert({
+"cedula": "3022154623",
+"fecha": "2021-06-13",
+"nombreclientes": "Carmen", 
+"apellidocliente" : "Ramires",
+"titulolibro":"La luz que perdimos",
+"autorlibro":"Jill Santopolo", 
+"generolibro":"Ficción, Novela rosa, Romance contemporáneo",
+"fechaentrega": "2021-07-25",
+"pago": "$30"
+})
+54> db.clientes.insert({
+"cedula": "2154025960",
+"fecha": "2021-03-18",
+"nombreclientes": "Milena", 
+"apellidocliente" : "Erazo",
+"titulolibro":"El cuaderno de Noah",
+"autorlibro":" Nicholas Sparks", 
+"generolibro":"Novela, Novela rosa, Ficción",
+"fechaentrega": "2021-1-25",
+"pago": "$25"
+})
+55> db.clientes.insert({
+"cedula": "2015489621",
+"fecha": "2021-05-15",
+"nombreclientes": "Wilmer", 
+"apellidocliente" : "Estrada",
+"titulolibro":"El mensaje",
+"autorlibro":"Nicholas Sparks", 
+"generolibro":"Novela, Ficción, Novela rosa",
+"fechaentrega": "2021-06-15",
+"pago": "$16"
+})
+56> db.clientes.insert({
+"cedula": "1201478520",
+"fecha": "2021-08-11",
+"nombreclientes": "Cristobal", 
+"apellidocliente" : "Muñoz",
+"titulolibro":"La pasión turca",
+"autorlibro":"Antonio Gala", 
+"generolibro":"Ficción",
+"fechaentrega": "2021-10-25",
+"pago": "$50"
+})
+57> db.clientes.insert({
+"cedula": "1024591255",
+"fecha": "2021-10-10",
+"nombreclientes": "Kasandra", 
+"apellidocliente" : "Romero",
+"titulolibro":"Los príncipes azules también destiñen",
+"autorlibro":"Megan Maxwell", 
+"generolibro":"Novela rosa, Ficción, Romance contemporáneo",
+"fechaentrega": "2021-11-25",
+"pago": "$30"
+})
+58> db.clientes.insert({
+"cedula": "1548962351",
+"fecha": "2021-07-14",
+"nombreclientes": "Juan", 
+"apellidocliente" : "Morrascos",
+"titulolibro":"Así es como la pierdes",
+"autorlibro":"Junot Díaz", 
+"generolibro":"Ficción, Recopilación de cuentos, Novela rosa",
+"fechaentrega": "2021-08-15",
+"pago": "$30"
+})
+59> db.clientes.insert({
+"cedula": "2563596325",
+"fecha": "2021-03-27",
+"nombreclientes": "Danna", 
+"apellidocliente" : "Macias",
+"titulolibro":"Travesuras de la niña mala",
+"autorlibro":"Mario Vargas Llosa", 
+"generolibro":"Novela, Ficción, Novela rosa",
+"fechaentrega": "2021-05-05",
+"pago": "$20"
+})
+60> db.clientes.insert({
+"cedula": "2563014589",
+"fecha": "2021-05-20",
+"nombreclientes": "Kelvin", 
+"apellidocliente" : "Manosalvas",
+"titulolibro":"Mi isla",
+"autorlibro":" Elísabet Benavent", 
+"generolibro":"Novela rosa, Ficción, Literatura erótica, Romance contemporáneo",
+"fechaentrega": "2021-06-20",
+"pago": "$25"
+})
+61> db.clientes.insert({
+"cedula": "5203654125",
+"fecha": "2021-03-12",
+"nombreclientes": "Bella", 
+"apellidocliente" : "Parales",
+"titulolibro":"El amor dura tres años",
+"autorlibro":"Frédéric Beigbeder", 
+"generolibro":" Ficción",
+"fechaentrega": "2021-04-20",
+"pago": "$30"
+})
+62> db.clientes.insert({
+"cedula": "8956596325",
+"fecha": "2021-09-30",
+"nombreclientes": "Clara", 
+"apellidocliente" : "Molina",
+"titulolibro":"El amante",
+"autorlibro":"Marguerite Duras", 
+"generolibro":"Novela, Ficción, Nouveau roman, Novela rosa",
+"fechaentrega": "2021-10-25",
+"pago": "$32"
+})
+63> db.clientes.insert({
+"cedula": "5623120256",
+"fecha": "2021-04-20",
+"nombreclientes": "Katty", 
+"apellidocliente" : "Párraga",
+"titulolibro":"El día que el cielo se caiga",
+"autorlibro":"Megan Maxwell", 
+"generolibro":"Novela rosa, Ficción, Romance contemporáneo",
+"fechaentrega": "2021-05-25",
+"pago": "$19"
+})
+64> db.clientes.insert({
+"cedula": "1256322785",
+"fecha": "2021-07-17",
+"nombreclientes": "Iván", 
+"apellidocliente" : "Benavides",
+"titulolibro":"El rossinyol",
+"autorlibro":" Kristin Hannah", 
+"generolibro":"Novela, Ficción, Novela rosa, Novela bélica",
+"fechaentrega": "2021-10-25",
+"pago": "$39"
+})
+65> db.clientes.insert({
+"cedula": "1256320125",
+"fecha": "2021-08-19",
+"nombreclientes": "Cristina", 
+"apellidocliente" : "Vivanco",
+"titulolibro":"Nosotros en la luna",
+"autorlibro":" Alice Kellen", 
+"generolibro":" Ficción",
+"fechaentrega": "2021-10-25",
+"pago": "$50"
+})
+66> db.clientes.insert({
+"cedula": "1024596325",
+"fecha": "2020-10-15",
+"nombreclientes": "Sofia", 
+"apellidocliente" : "Navarrete",
+"titulolibro":"El jinete de bronce (El jinete de bronce 1)",
+"autorlibro":"Paullina Simons", 
+"generolibro":"Novela rosa, Ficción, Novela bélica",
+"fechaentrega": "2021-11-25",
+"pago": "$30"
+})
+67> db.clientes.insert({
+"cedula": "1252012365",
+"fecha": "2020-04-17",
+"nombreclientes": "Estrella", 
+"apellidocliente" : "Maldonado",
+"titulolibro":"Cuando vuelva a encontrarte",
+"autorlibro":"Mar Carrión", 
+"generolibro":"Ficción, Romance contemporáneo",
+"fechaentrega": "2021-05-25",
+"pago": "$30"
+})
+68> db.clientes.insert({
+"cedula": "4584596325",
+"fecha": "2021-10-10",
+"nombreclientes": "Bella", 
+"apellidocliente" : "Napoleón",
+"titulolibro":"Un día de diciembre",
+"autorlibro":"Josie Silver", 
+"generolibro":"Novela rosa, Ficción",
+"fechaentrega": "2021-11-25",
+"pago": "$40"
+})
+69> db.clientes.insert({
+"cedula": "1256321025",
+"fecha": "2021-09-10",
+"nombreclientes": "Birmania", 
+"apellidocliente" : "Buenaventura",
+"titulolibro":"Marfil (Enfrentados 1)",
+"autorlibro":"Mercedes Ron", 
+"generolibro":"Ficción adulto joven",
+"fechaentrega": "2021-10-10",
+"pago": "$10"
+})
+70> db.clientes.insert({
+"cedula": "1315754240",
+"fecha": "2021-02-18",
+"nombreclientes": "Karla", 
+"apellidocliente" : "Vera",
+"titulolibro":"Gente Normal / Normal People",
+"autorlibro":"JSally Rooney", 
+"generolibro":"Novela, Ficción literaria",
+"fechaentrega": "2021-03-25",
+"pago": "$30"
+})
+
+148> db.clientes.insert({
+"cedula": "1111122121",
+"fecha": "2014-07-14",
+"nombreclientes": "Carlos", 
+"apellidocliente" : "Oton",
+"titulolibro":"Garchi",
+"autorlibro":"joselyn Peter ", 
+"generolibro":"Pelicula",
+"fechaentrega": "2011-03-02",
+"pago": "$175"
+})
+149> db.clientes.insert({
+"cedula": "1523698521",
+"fecha": "2016-10-14",
+"nombreclientes": "Evenlin", 
+"apellidocliente" : "Ferrin",
+"titulolibro":"Orgullo y prejuicio",
+"autorlibro":"Jane Austen", 
+"generolibro":"Novela rosa, Ficción, Sátira, Romance histórico, Novela costumbrista",
+"fechaentrega": "2017-03-02",
+"pago": "$175"
+})
+150> db.clientes.insert({
+"cedula": "6325410256",
+"fecha": "2021-08-14",
+"nombreclientes": "Noelia", 
+"apellidocliente" : "Santos",
+"titulolibro":"Jane Eyre",
+"autorlibro":"Charlotte Brontë", 
+"generolibro":"Novela, Ficción gótica, Novela rosa, Novela de aprendizaje, Crítica social",
+"fechaentrega": "2021-10-02",
+"pago": "$46"
+})
