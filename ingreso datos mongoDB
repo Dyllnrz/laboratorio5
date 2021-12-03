@@ -1,14 +1,15 @@
 db.clientes.insert({
-"cedula" : "1750990572",
+"cedula" : "1569632569",
 "fecha" : "2021-10-11",
-"nombrecliente" : "Dyllan", 
-"apellidocliente" : "Raza",
+"nombrecliente" : "Luis", 
+"apellidocliente" : "Solis",
 "titulolibro":"El cazador oculto", 
 "autorlibro":"J.D. Salinger", 
 "generolibro":"Novela",
 "fechaentrega" : "2022-01-11",
 "pago" : "$20"
 })
+
 db.clientes.insert({
 "cedula" : "3659545632",
 "fecha" : "2021-11-21",
